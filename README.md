@@ -1,7 +1,7 @@
 Ciclo 3 RETROSPECTIVA: 
 
 1. Tiempo total invertido
-El tiempo total invertido en el laboratorio fue de 12 horas
+El tiempo total invertido en el CICLO fue de 12 horas
 Estado: Completado 
 3. Practicas XP: Refactor para el id interno de liddedCus en lugar del blockSize, posicion correcta  de las tapas en pushLid , y la implementación del cover
 
